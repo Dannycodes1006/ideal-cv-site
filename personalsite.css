@@ -1,0 +1,21 @@
+ #first{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+} #t1{border:2px solid black;} .bord{border:2px solid black;margin:0;}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li a {
+  display:inline-block;
+  color: white;
+  text-align: center;
+  padding: 4px 18px;
+  text-decoration: none;
+}
+#first li{float:left;}
